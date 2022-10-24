@@ -1,6 +1,7 @@
 import json
 import random
 from scripts import sine
+import pyaudio
 
 
 volume = 1  # range [0.0, 1.0]
