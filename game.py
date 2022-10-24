@@ -1,7 +1,7 @@
 import json
 import random
 from scripts import sine
-import pyaudio
+import pyaudio # NOt used here but pyinstaller was ignoring it as a req
 
 
 volume = 1  # range [0.0, 1.0]
